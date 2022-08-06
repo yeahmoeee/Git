@@ -21,7 +21,11 @@ git remote add origin [link] -> connecting your folder on your local machine to 
 git remote -v -> list out all remote repositories connected to your folder\
 git branch -> list all the branches (* representing the current branch)\
 git checkout -b [name of the branch] -> create a new branch\
-git checkout [name of the branch] -> switch branch\
+git checkout [name of the branch] -> switch branch
+
+
+
+
 
 
 
