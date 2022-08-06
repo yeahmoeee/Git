@@ -31,3 +31,7 @@ git merge [name of the branch] -> merging the branches
 
 
 
+
+
+
+
