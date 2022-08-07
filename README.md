@@ -25,6 +25,12 @@ git checkout [name of the branch] -> switch branch\
 git diff [name of the branch] -> show the differences\
 git merge [name of the branch] -> merging the branches\
 git commit -am [message] -> adding and commiting modified file (doesn't work on newly created file)
+git reset -> undoing staging/
+git reset HEAD~1 -> undoing git commit/
+git log -> log of all commits/
+git reset --head <code in log> -> undoing git commit and unstage
+
+
 
 
 
