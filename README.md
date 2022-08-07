@@ -23,7 +23,9 @@ git branch -> list all the branches (* representing the current branch)\
 git checkout -b [name of the branch] -> create a new branch\
 git checkout [name of the branch] -> switch branch\
 git diff [name of the branch] -> show the differences\
-git merge [name of the branch] -> merging the branches
+git merge [name of the branch] -> merging the branches\
+git commit -am [message] -> adding and commiting modified file (doesn't work on newly created file)
+
 
 
 
